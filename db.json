@@ -1,0 +1,50 @@
+{
+  "products": [
+    {
+      "name": "pro 3",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.pSi3vfGGJyVj_F-DZMJBdAHaE8&pid=Api&P=0",
+      "price": "2000000",
+      "id": 2
+    },
+    {
+      "name": "pro 3",
+      "image": "https://www.elle.vn/wp-content/uploads/2017/07/25/hinh-anh-dep-1.jpg",
+      "price": "1000",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "email": "user@gmail.com",
+      "password": "$2a$10$K2pS7ktWoe9xb9v6sDhWAOIKHvzLVO.vy7PTYy.9fgzzOGSKSXfM.",
+      "name": "user",
+      "phoneNumber": "0852336547",
+      "role": "member",
+      "id": 2
+    },
+    {
+      "email": "member@gmail.com",
+      "password": "$2a$10$Bz13deXoOjKHN.KmdIufZ.7JtldbHCU6/qrDr.W5WcVGjeTv2cMdO",
+      "name": "member",
+      "phoneNumber": "0969264285",
+      "role": "admin",
+      "id": 3
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$TgPqb5SDWIcO.abh5fxXlOhbj.1p1lEG4qiZwplWV5r1JYZP0MNLq",
+      "role": "admin",
+      "lastName": "1",
+      "firstName": "admin",
+      "id": 4
+    },
+    {
+      "email": "user1@gmail.com",
+      "password": "$2a$10$XhXvhVdLK8bLUmD497Jk/ed913hVnUfRZzHs3yfe7vfh/xvV2.1Lm",
+      "role": "member",
+      "lastName": "1",
+      "firstName": "user",
+      "id": 5
+    }
+  ]
+}
